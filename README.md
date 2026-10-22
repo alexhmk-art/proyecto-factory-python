@@ -8,3 +8,11 @@ python main.py
 ```
 # proyecto-factory-python
 # proyecto-factory-python
+
+## Control de versiones
+
+Este proyecto utiliza Git y GitHub para gestionar
+los cambios realizados durante su desarrollo.
+
+Se trabaja con ramas para realizar mejoras sin
+modificar directamente la rama principal.
